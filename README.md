@@ -1,2 +1,2 @@
 # CICD-for-ml
-Weights &amp; Biases CICD for ML course
+Weights &amp; Biases CICD for ML course.
