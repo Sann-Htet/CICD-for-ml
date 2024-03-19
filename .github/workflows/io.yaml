@@ -6,7 +6,7 @@ jobs:
   io:
     runs-on: ubuntu-latest
     steps:
-      - name: hello
+      - name: set-var
         shell: python
         run: |
           import os
